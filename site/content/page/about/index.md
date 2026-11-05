@@ -1,5 +1,6 @@
 ---
 title: 자기소개
+slug: about
 description: 조운의 소개와 관심 분야, 학습 목표를 정리한 페이지입니다.
 date: 2026-11-04
 lastmod: 2026-11-04
